@@ -1,0 +1,22 @@
+  .practice {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+
+
+  }
+
+  .new {
+    background-color: yellow;
+    
+
+
+  }
+
+  .new, .practice{
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+    
+
+
+  }
